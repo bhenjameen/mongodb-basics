@@ -12,8 +12,8 @@
 ### myMovies documents with ratings of 7
 #
 ![myMovies documents with movie titles only](images/findInterns(myMovies_collection_of_movie_titles_only).JPG)
-###
+### myMovies documents with movie titles only
 #
-![]()
-###
+![myMovies collection update](images/updateInterns_(update_of_movie_document).JPG)
+### myMovies collection update
 #

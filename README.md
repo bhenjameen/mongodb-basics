@@ -1,4 +1,4 @@
-# Crud-Basics in MongoDB 
+# CRUD-Basics in MongoDB 
 ### Using inbuilt code runner in VScode terminal 
 ##
 ##

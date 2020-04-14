@@ -11,7 +11,7 @@
 ![myMovies documents with ratings of 7](images/findInterns_(myMovies_collection_with_ratings_of_7).JPG)
 ### myMovies documents with ratings of 7
 #
-![]()
+![myMovies documents with movie titles only](images/findInterns(myMovies_collection_of_movie_titles_only).JPG)
 ###
 #
 ![]()
